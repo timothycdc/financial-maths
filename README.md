@@ -1,6 +1,6 @@
 # financial-maths
 
-Compilation of Resources and practice code. Attribution has been given where my code is not mine.
+Compilation of Resources and practice code. Attribution has been given where the code is not mine.
 Trying to recreate functions on my own to learn some quantitative modelling.
 
 Most of the notebooks are by the following authors:
