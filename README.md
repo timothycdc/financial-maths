@@ -5,7 +5,7 @@ Trying to recreate functions on my own to learn some quantitative modelling.
 
 Most of the notebooks are by the following authors:
 
-- (cantaro86)[https://github.com/cantaro86/Financial-Models-Numerical-Methods]
+- [cantaro86](https://github.com/cantaro86/Financial-Models-Numerical-Methods)
 - (-)
 
 # financial-maths
